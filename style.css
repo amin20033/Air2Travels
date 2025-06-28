@@ -96,7 +96,7 @@ h3 {
   .right img {
     height: 30%;
     width: 100%;
-    margin-bottom: 50px;
+    margin-bottom: 2%;
   }
   .space {
     margin-bottom: 100px;
@@ -106,5 +106,8 @@ h3 {
   }
   #heroes img {
     margin-left: 12%;
+  }
+  .wp {
+    margin-bottom: 2%;
   }
 }
